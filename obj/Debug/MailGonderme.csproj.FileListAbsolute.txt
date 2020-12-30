@@ -1,0 +1,14 @@
+C:\Users\Mersus\Desktop\CoreUygulamalari\Mail gönderme\MailGonderme\MailGonderme\bin\Debug\MailGonderme.exe.config
+C:\Users\Mersus\Desktop\CoreUygulamalari\Mail gönderme\MailGonderme\MailGonderme\bin\Debug\MailGonderme.exe
+C:\Users\Mersus\Desktop\CoreUygulamalari\Mail gönderme\MailGonderme\MailGonderme\bin\Debug\MailGonderme.pdb
+C:\Users\Mersus\Desktop\CoreUygulamalari\Mail gönderme\MailGonderme\MailGonderme\obj\Debug\MailGonderme.csproj.CoreCompileInputs.cache
+C:\Users\Mersus\Desktop\CoreUygulamalari\Mail gönderme\MailGonderme\MailGonderme\obj\Debug\MailGonderme.exe
+C:\Users\Mersus\Desktop\CoreUygulamalari\Mail gönderme\MailGonderme\MailGonderme\obj\Debug\MailGonderme.pdb
+C:\Users\Mersus\Desktop\CoreUygulamalari\Mail gönderme\MailGonderme\MailGonderme\obj\Debug\MailGonderme.csprojAssemblyReference.cache
+C:\Users\Mersus\Source\Repos\destekrapormailgonderim2\MailGonderme\bin\Debug\MailGonderme.exe.config
+C:\Users\Mersus\Source\Repos\destekrapormailgonderim2\MailGonderme\bin\Debug\MailGonderme.exe
+C:\Users\Mersus\Source\Repos\destekrapormailgonderim2\MailGonderme\bin\Debug\MailGonderme.pdb
+C:\Users\Mersus\Source\Repos\destekrapormailgonderim2\MailGonderme\obj\Debug\MailGonderme.csprojAssemblyReference.cache
+C:\Users\Mersus\Source\Repos\destekrapormailgonderim2\MailGonderme\obj\Debug\MailGonderme.csproj.CoreCompileInputs.cache
+C:\Users\Mersus\Source\Repos\destekrapormailgonderim2\MailGonderme\obj\Debug\MailGonderme.exe
+C:\Users\Mersus\Source\Repos\destekrapormailgonderim2\MailGonderme\obj\Debug\MailGonderme.pdb
